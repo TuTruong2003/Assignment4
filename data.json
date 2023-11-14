@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "email": "hputleyg@pbs.org",
+      "username": "utley7"
+    },
+    {
+      "id": 4,
+      "email": "ljoriom@java.com",
+      "username": "jorrr273"
+    },
+    {
+      "id": 5,
+      "email": "rshallikert@auda.org",
+      "username": "shalll23"
+    },
+    {
+      "id": 77,
+      "email": "mmcveightyw@squarespace.com",
+      "username": "veightyyyy"
+    },
+    {
+      "id": 99,
+      "email": "mellhuishz@jiathis.com",
+      "username": "huishsh3"
+    },
+    {
+      "email": "haha@gmail.com",
+      "username": "ha",
+      "id": 3004
+    },
+    {
+      "email": "helloworld123@gmail.com",
+      "username": "AnhTu",
+      "id": 3415
+    },
+    {
+      "email": "helloworld123@gmail.com",
+      "username": "AnhTu",
+      "id": 1125
+    }
+  ]
+}
